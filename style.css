@@ -1,0 +1,38 @@
+#all{
+	width: 1024px;
+	height: 1024px;
+	border-style:solid;
+	background-color: white;
+	padding: 20px 20px 45px 20px;
+	margin: auto;
+}
+#sidebar{
+	width: 200px;
+	height: 1024px;
+	background-color: #2da2bf;
+	float: left;
+}
+#header{
+	width: 800px;
+	height: 250px;
+	background-color: #2da2bf;
+	float: right;
+}
+#content{
+	width: 800px;
+	height: 504px;
+	background-color: #2da2bf;
+	float: right;
+	margin: 10px 0px 10px;
+}
+#footer{
+	width: 800px;
+	height: 250px;
+	background-color: #2da2bf;
+	float: right;
+}
+.h1{
+	text-align: center;
+	font-family: italic;
+	font-size: 40px;
+	color: white;
